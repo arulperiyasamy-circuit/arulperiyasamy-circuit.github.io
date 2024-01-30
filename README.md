@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arulperiyasamygit
+- 👀 I’m interested in Operating System and RTOS
+- 🌱 I’m currently learning C programming
+-  ⚡ Fun fact:I'm an Electronics student without
