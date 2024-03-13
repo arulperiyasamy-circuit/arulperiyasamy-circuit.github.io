@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arulperiyasamygit
+- 👀 I’m interested in ELECTRONICS AND OPERATING SYSTEM
+- 🌱 I’m currently learning C PROGRAMMING
+- ⚡ I'm eager to contribute for OPEN-SOURCE Projects
